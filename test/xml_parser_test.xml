@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<ASAP_Annotations>
+	<Annotations>
+		<Annotation Name="Annotation 0" Type="Polygon" PartOfGroup="None" Color="#F4FA58">
+			<Coordinates>
+				<Coordinate Order="0" X="50700.457" Y="20132.8984" />
+				<Coordinate Order="1" X="50471.0781" Y="20189.2363" />
+				<Coordinate Order="2" X="50285.9688" Y="20241.5508" />
+				<Coordinate Order="3" X="50104.8789" Y="20297.8887" />
+				<Coordinate Order="4" X="49968.0586" Y="20386.4199" />
+				<Coordinate Order="5" X="49855.3828" Y="20511.1699" />
+				<Coordinate Order="6" X="49774.8984" Y="20672.1367" />
+				<Coordinate Order="7" X="49706.4883" Y="20825.0547" />
+				<Coordinate Order="8" X="49646.125" Y="20990.0449" />
+				<Coordinate Order="9" X="49634.0547" Y="21171.1328" />
+				<Coordinate Order="10" X="49642.1016" Y="21332.0996" />
+				<Coordinate Order="11" X="49678.3203" Y="21493.0664" />
+				<Coordinate Order="12" X="49714.5352" Y="21666.1055" />
+				<Coordinate Order="13" X="49734.6563" Y="21835.1191" />
+				<Coordinate Order="14" X="49762.8281" Y="21996.0859" />
+				<Coordinate Order="15" X="49714.5352" Y="22161.0781" />
+				<Coordinate Order="16" X="49626.0039" Y="22305.9473" />
+				<Coordinate Order="17" X="49513.3281" Y="22442.7695" />
+				<Coordinate Order="18" X="49428.8203" Y="22591.6641" />
+				<Coordinate Order="19" X="49432.8438" Y="22764.7031" />
+				<Coordinate Order="20" X="49569.668" Y="22861.2813" />
+				<Coordinate Order="21" X="49734.6563" Y="22917.6211" />
+				<Coordinate Order="22" X="49903.6719" Y="22965.9102" />
+				<Coordinate Order="23" X="50076.7109" Y="23002.1289" />
+				<Coordinate Order="24" X="50249.75" Y="23034.3203" />
+				<Coordinate Order="25" X="50422.7891" Y="23034.3203" />
+				<Coordinate Order="26" X="50575.707" Y="22982.0078" />
+				<Coordinate Order="27" X="50696.4336" Y="22873.3555" />
+				<Coordinate Order="28" X="50797.0352" Y="22732.5098" />
+				<Coordinate Order="29" X="50849.3516" Y="22579.5898" />
+				<Coordinate Order="30" X="50937.8828" Y="22426.6719" />
+				<Coordinate Order="31" X="51042.5117" Y="22285.8262" />
+				<Coordinate Order="32" X="51163.2344" Y="22153.0293" />
+				<Coordinate Order="33" X="51263.8398" Y="22004.1348" />
+				<Coordinate Order="34" X="51372.4922" Y="21855.2402" />
+				<Coordinate Order="35" X="51457" Y="21702.3223" />
+				<Coordinate Order="36" X="51557.6055" Y="21569.5254" />
+				<Coordinate Order="37" X="51678.3281" Y="21460.873" />
+				<Coordinate Order="38" X="51823.1992" Y="21376.3652" />
+				<Coordinate Order="39" X="51976.1172" Y="21271.7363" />
+				<Coordinate Order="40" X="52112.9375" Y="21167.1094" />
+				<Coordinate Order="41" X="52285.9766" Y="21090.6504" />
+				<Coordinate Order="42" X="52446.9453" Y="21058.457" />
+				<Coordinate Order="43" X="52603.8867" Y="20981.9961" />
+				<Coordinate Order="44" X="52772.9023" Y="20889.4414" />
+				<Coordinate Order="45" X="52905.6992" Y="20788.8379" />
+				<Coordinate Order="46" X="53014.3516" Y="20664.0879" />
+				<Coordinate Order="47" X="53110.9297" Y="20527.2656" />
+				<Coordinate Order="48" X="53211.5352" Y="20394.4688" />
+				<Coordinate Order="49" X="53340.3086" Y="20285.8164" />
+				<Coordinate Order="50" X="53420.793" Y="20124.8496" />
+				<Coordinate Order="51" X="53440.9141" Y="19963.8828" />
+				<Coordinate Order="52" X="53296.043" Y="19867.3027" />
+				<Coordinate Order="53" X="53127.0273" Y="19863.2793" />
+				<Coordinate Order="54" X="52949.9648" Y="19855.2305" />
+				<Coordinate Order="55" X="52768.8789" Y="19867.3027" />
+				<Coordinate Order="56" X="52591.8125" Y="19899.4961" />
+				<Coordinate Order="57" X="52422.8008" Y="19923.6426" />
+				<Coordinate Order="58" X="52257.8086" Y="19927.666" />
+				<Coordinate Order="59" X="52104.8906" Y="19867.3027" />
+				<Coordinate Order="60" X="51960.0195" Y="19778.7715" />
+				<Coordinate Order="61" X="51799.0547" Y="19750.6016" />
+				<Coordinate Order="62" X="51630.0391" Y="19746.5781" />
+				<Coordinate Order="63" X="51465.0469" Y="19746.5781" />
+				<Coordinate Order="64" X="51304.082" Y="19758.6504" />
+				<Coordinate Order="65" X="51167.2617" Y="19851.207" />
+				<Coordinate Order="66" X="51030.4375" Y="19951.8105" />
+				<Coordinate Order="67" X="50897.6406" Y="20060.4629" />
+			</Coordinates>
+		</Annotation>
+	</Annotations>
+	<AnnotationGroups />
+</ASAP_Annotations>
